@@ -3,7 +3,7 @@ Student Name: Arianna Bikombe
 CSCI175N
 Lab Assignment: Lab0
 Project Name: Hello World!
-File Name: hello.cpp
+File Name: hello-world.cpp
 Description: Instructor provided program for first compile
 Limitations: Doesn't do very much.
 Credits: Code provided by instructor
