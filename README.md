@@ -2,21 +2,13 @@
 
 ***January 2021***
 
-Initial code for learning C++.
+Hello World using C++.
 
 ## Used In This Repository
 
 - C++11
 
 ## Getting Started
-
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
 
 ## Version History
 
